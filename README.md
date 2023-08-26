@@ -7,4 +7,6 @@ Puntos a tomar en cuenta:
 - Para que el código funcione correctamente, es necesario tener la base de datos en la misma carpeta que el .py
 - El modelo de regresión lineal simple asume que la relación entre las variables puede ser aproximada por una línea recta.
 - Los resultados pueden ser no confiables debido al error del modelo al tratar de relacionar las variables utilizadas.
-- Este proyecto es con fines experimentales y de educación. 
+- Este proyecto es con fines experimentales y de educación.
+
+Realizado por: Daniela López | A00831568
